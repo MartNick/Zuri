@@ -1,5 +1,5 @@
 # Zuri
-<h4> Zuri Assignments
+<h3> Zuri Assignments
 <p><p/> 
-<h6> Guess Game </h6>
+<h4> Guess Game </h4>
 https://replit.com/@MartNick/Guess-Game-Zuri-Assignment#index.js
